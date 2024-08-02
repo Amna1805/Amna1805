@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nasir Hussain</h1>
-<h2 align="center">BS CS | QAU'24 | AI/ML | Computer Vision | Web Developer</h2>
-<h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My professional skills include Web development and I am also interested in Machine Learning and Computer Vision.</h3>
+<h1 align="center">Hi 👋Amna Muaffar Here.</h1>
+<h2 align="center">BS CS | QAU'24 | AI/ML Engineer | Android Deveoper | Web Developer</h2>
+<h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My Professional Expertise are in Web Development(MERN STACK, Vue/DJango) and AI/ML.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nasirhussainn&label=Profile%20views&color=0e75b6&style=flat" alt="nasirhussainn" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amna1805&label=Profile%20views&color=0e75b6&style=flat" alt="amna1805" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=nasirhussainn&theme=onedark" alt="nasirhussainn" /></a> </p>
 
