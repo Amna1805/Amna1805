@@ -2,17 +2,16 @@
 <h2 align="center">BS CS | QAU'24 | AI/ML Engineer | Android Deveoper | Web Developer</h2>
 <h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My Professional Expertise are in Web Development(MERN STACK, Vue/DJango) and AI/ML.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amna1805&label=Profile%20views&color=0e75b6&style=flat" alt="amna1805" /> </p>
+/*<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amna1805&label=Profile%20views&color=0e75b6&style=flat" alt="amna1805" /> </p>*/
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=nasirhussainn&theme=onedark" alt="nasirhussainn" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Amna1805&theme=onedark" alt="Amna1805" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/nn_asir" target="blank"><img src="https://img.shields.io/twitter/follow/nn_asir?logo=twitter&style=for-the-badge" alt="nn_asir" /></a> </p>
 
 
 
 - 🌱 I’m a **Computer Science** student.
 
-- 📫 How to reach me: **nasirhussaintormik@gmail.com**
+- 📫 How to reach me: **amnamuzaffar2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +19,7 @@
   <tr>
     <td align='center' width="190"><a href="https://twitter.com/nn_asir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nn_asir" height="30" width="40" /></a>
     </td>
-    <td align='center' width="190"><a href="https://linkedin.com/in/nasir-hussainn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+    <td align='center' width="190"><a href="https://linkedin.com/in/amna-muzaffar-728464240" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
     </td>
     <td align='center' width="190"><a href="https://stackoverflow.com/users/15672549/nasir-hussain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-profile" height="30" width="40" /></a>
     </td>
