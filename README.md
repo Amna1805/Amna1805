@@ -1,3 +1,1 @@
-## Hi there 👋
-
-* 👂 Amna Muzaffar here.
+## Hi there 👋 Amna Muzaffar here.
