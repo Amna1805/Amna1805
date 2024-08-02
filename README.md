@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hello, I'm [Your Name]! 👋</h1>
 <p align="center">
   <a href="https://github.com/YourUsername" target="_blank">
     <img src="https://img.shields.io/github/followers/YourUsername?style=social" alt="GitHub Followers" />
@@ -11,35 +11,40 @@
     <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" alt="Twitter" />
   </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Technology+Enthusiast;Open+Source+Contributor&font=Fira+Code&center=true&width=440&height=45" alt="Typing SVG" />
+</p>
 
 <!-- About Me -->
 ## 🚀 About Me
-- **🔭 I’m currently working on**: [Current Projects or Technologies]
-- **🌱 I’m currently learning**: [New Skills or Technologies]
-- **💬 Ask me about**: [Your Areas of Expertise]
-- **📫 How to reach me**: [Your Email or Contact Information]
-- **⚡ Fun fact**: [Something Interesting About You]
+- 🔭 **I’m currently working on**: [Current Projects or Technologies]
+- 🌱 **I’m currently learning**: [New Skills or Technologies]
+- 💬 **Ask me about**: [Your Areas of Expertise]
+- 📫 **How to reach me**: [Your Email or Contact Information]
+- ⚡ **Fun fact**: [Something Interesting About You]
 
-<!-- Tech Stack -->
-## 🔧 Technologies & Tools
-<p>
+<!-- Skills & Technologies -->
+## 💡 Skills & Technologies
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Django-092D0D?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
 
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amna1805&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amna1805&hide_title=true&hide_border=true&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide_title=true&hide_border=true&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Recent Work -->
-## 🛠️ My Recent Work
+## 🛠️ Recent Work
 ### [Project Name](Link to Project)
 - **Description**: [Short description of the project]
 - **Tech Stack**: [Technologies used]
