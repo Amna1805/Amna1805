@@ -2,7 +2,6 @@
 <h2 align="center">BS CS | QAU'24 | AI/ML Engineer | Android Deveoper | Web Developer</h2>
 <h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My Professional Expertise are in Web Development(MERN STACK, Vue/DJango) and AI/ML.</h3>
 
-/*<p align="center"> <img src="https://komarev.com/ghpvc/?username=Amna1805&label=Profile%20views&color=0e75b6&style=flat" alt="amna1805" /> </p>*/
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Amna1805&theme=onedark" alt="Amna1805" /></a> </p>
 
@@ -17,15 +16,14 @@
 <p align="left">
 <table width="100">
   <tr>
-    <td align='center' width="190"><a href="https://twitter.com/nn_asir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nn_asir" height="30" width="40" /></a>
-    </td>
+    
     <td align='center' width="190"><a href="https://linkedin.com/in/amna-muzaffar-728464240" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
     </td>
     <td align='center' width="190"><a href="https://stackoverflow.com/users/15672549/nasir-hussain" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow-profile" height="30" width="40" /></a>
     </td>
-    <td align='center' width="190"><a href="https://instagram.com/nn_asir" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-profile" height="30" width="40" /></a>
+    <td align='center' width="190"><a href="https://instagram.com/amna__muzaffar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram-profile" height="30" width="40" /></a>
     </td>
-    <td align='center' width="190"><a href="https://medium.com/@nasirhussaintormik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="your-medium-profile" height="30" width="40" /></a>
+
 </td>
   </tr>
 </table>
