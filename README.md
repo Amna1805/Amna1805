@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋Amna Muaffar Here.</h1>
+<h1 align="center">Hi 👋Amna Muzaffar Here.</h1>
 <h2 align="center">BS CS | QAU'24 | AI/ML Engineer | Android Deveoper | Web Developer</h2>
 <h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My Professional Expertise are in Web Development(MERN STACK, Vue/DJango) and AI/ML.</h3>
 
