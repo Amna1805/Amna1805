@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋Amna Muzaffar Here.</h1>
 <h2 align="center">BS CS | QAU'24 | AI/ML Engineer | Android Deveoper | Web Developer</h2>
-<h3 align="center">I'm an Undergraduate BS Computer Science student from Quaid-i-Azam University, Islamabad. My Professional Expertise are in Web Development(MERN STACK, Vue/DJango) and AI/ML.</h3>
-
+<h3 align="center">Graduated in BS Computer Science from Quaid-i-Azam University, Islamabad. My professional expertise includes Web Development (MERN Stack, Vue/Django) and AI/ML. Currently, I am working as a .NET C# Developer.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=Amna1805&theme=onedark" alt="Amna1805" /></a> </p>
 
